@@ -45,6 +45,5 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chl70n&show_icons=true&locale=en&layout=compact" alt="chl70n" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chl70n&show_icons=true&locale=en" alt="chl70n" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chl70n&layout=compact&theme=dark)](https://github.com/chl70n)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chl70n&show_icons=true&theme=dark)](https://github.com/chl70n)
